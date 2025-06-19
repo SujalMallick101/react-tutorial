@@ -1,0 +1,23 @@
+.main{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    font-size: 2em;
+    background-color: beige;
+    color: black;
+}
+
+.img{
+    height: 50vh;
+    width: 100vw;
+}
+
+.footer{
+    background-color: beige;
+    color: black;
+    font-size: 2em;
+}
